@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background-color: #222;
+  border: 1px solid #000020;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+}
+
+.header-logo{
+  margin-left: 20px;
+}
+
+.header-logo h1{
+  color: #7fff00;
+}
+
+
+
+
+
+
+
